@@ -31,7 +31,7 @@ em ambientes de mineração, com interesse em:
 
 ## 📚 Formação
 
-- Mestrado em Engenharia de Sistemas e Automação — UFLA
+- Mestrando em Engenharia de Sistemas e Automação — UFLA
 - MBA em Engenharia de Software — USP
 - Engenharia Elétrica — CEFET-MG
 - Técnico em Redes de Computadores — CEFET-MG
