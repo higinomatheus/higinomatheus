@@ -13,7 +13,7 @@ bancos de dados relacionais e computação em nuvem.
 - C# e ASP.NET Core
 - Python
 - PHP e Symfony
-- JavaScript, Angular, React
+- JavaScript, Angular e React
 - Flutter e React Native
 - PostgreSQL, MySQL e SQL Server
 - Docker, AWS e Azure
